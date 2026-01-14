@@ -1,0 +1,6 @@
+simple:
+  prompts: "simplesearch[]"
+  meaning: "[]の中のみを検索。周辺情報の検索を無効化し、単純な検索をする"
+spider:
+  prompts: "spidersearch[]"
+  meaning: "[]の中からマインドマップ的に派生して検索。"
